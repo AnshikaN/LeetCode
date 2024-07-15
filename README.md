@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AnshikaN/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/AnshikaN/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2846-robot-collisions](https://github.com/AnshikaN/LeetCode/tree/master/2846-robot-collisions) |
 ## Stack
@@ -15,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AnshikaN/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/AnshikaN/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2846-robot-collisions](https://github.com/AnshikaN/LeetCode/tree/master/2846-robot-collisions) |
 ## Simulation
@@ -33,5 +35,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AnshikaN/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/AnshikaN/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 <!---LeetCode Topics End-->
