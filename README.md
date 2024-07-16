@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/AnshikaN/LeetCode/tree/master/1642-water-bottles) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/AnshikaN/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2846-robot-collisions](https://github.com/AnshikaN/LeetCode/tree/master/2846-robot-collisions) |
 ## Hash Table
@@ -50,4 +51,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1720-crawler-log-folder](https://github.com/AnshikaN/LeetCode/tree/master/1720-crawler-log-folder) |
+## Math
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/AnshikaN/LeetCode/tree/master/1642-water-bottles) |
 <!---LeetCode Topics End-->
