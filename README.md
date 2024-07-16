@@ -8,11 +8,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0917-boats-to-save-people](https://github.com/AnshikaN/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AnshikaN/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1720-crawler-log-folder](https://github.com/AnshikaN/LeetCode/tree/master/1720-crawler-log-folder) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/AnshikaN/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2846-robot-collisions](https://github.com/AnshikaN/LeetCode/tree/master/2846-robot-collisions) |
 ## Stack
 |  |
 | ------- |
+| [1720-crawler-log-folder](https://github.com/AnshikaN/LeetCode/tree/master/1720-crawler-log-folder) |
 | [2846-robot-collisions](https://github.com/AnshikaN/LeetCode/tree/master/2846-robot-collisions) |
 ## Sorting
 |  |
@@ -44,4 +46,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0917-boats-to-save-people](https://github.com/AnshikaN/LeetCode/tree/master/0917-boats-to-save-people) |
+## String
+|  |
+| ------- |
+| [1720-crawler-log-folder](https://github.com/AnshikaN/LeetCode/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
