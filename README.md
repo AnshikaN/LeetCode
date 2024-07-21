@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/AnshikaN/LeetCode/tree/master/0322-coin-change) |
 | [0917-boats-to-save-people](https://github.com/AnshikaN/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/AnshikaN/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AnshikaN/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -82,4 +83,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3242-count-elements-with-maximum-frequency](https://github.com/AnshikaN/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/AnshikaN/LeetCode/tree/master/0322-coin-change) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/AnshikaN/LeetCode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
