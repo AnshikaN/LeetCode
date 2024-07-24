@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0322-coin-change](https://github.com/AnshikaN/LeetCode/tree/master/0322-coin-change) |
 | [0917-boats-to-save-people](https://github.com/AnshikaN/LeetCode/tree/master/0917-boats-to-save-people) |
+| [1333-sort-the-jumbled-numbers](https://github.com/AnshikaN/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/AnshikaN/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AnshikaN/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/AnshikaN/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0917-boats-to-save-people](https://github.com/AnshikaN/LeetCode/tree/master/0917-boats-to-save-people) |
+| [1333-sort-the-jumbled-numbers](https://github.com/AnshikaN/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AnshikaN/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/AnshikaN/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/AnshikaN/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
