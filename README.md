@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AnshikaN/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0072-edit-distance](https://github.com/AnshikaN/LeetCode/tree/master/0072-edit-distance) |
 | [0583-delete-operation-for-two-strings](https://github.com/AnshikaN/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [1250-longest-common-subsequence](https://github.com/AnshikaN/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AnshikaN/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AnshikaN/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0072-edit-distance](https://github.com/AnshikaN/LeetCode/tree/master/0072-edit-distance) |
 | [0322-coin-change](https://github.com/AnshikaN/LeetCode/tree/master/0322-coin-change) |
 | [0583-delete-operation-for-two-strings](https://github.com/AnshikaN/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [1250-longest-common-subsequence](https://github.com/AnshikaN/LeetCode/tree/master/1250-longest-common-subsequence) |
