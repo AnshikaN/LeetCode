@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/AnshikaN/LeetCode/tree/master/0322-coin-change) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/AnshikaN/LeetCode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0917-boats-to-save-people](https://github.com/AnshikaN/LeetCode/tree/master/0917-boats-to-save-people) |
+| [0921-spiral-matrix-iii](https://github.com/AnshikaN/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/AnshikaN/LeetCode/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/AnshikaN/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/AnshikaN/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0921-spiral-matrix-iii](https://github.com/AnshikaN/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/AnshikaN/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AnshikaN/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/AnshikaN/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -112,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/AnshikaN/LeetCode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0921-spiral-matrix-iii](https://github.com/AnshikaN/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/AnshikaN/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/AnshikaN/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 ## Counting
