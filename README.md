@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0322-coin-change](https://github.com/AnshikaN/LeetCode/tree/master/0322-coin-change) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/AnshikaN/LeetCode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0624-maximum-distance-in-arrays](https://github.com/AnshikaN/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0870-magic-squares-in-grid](https://github.com/AnshikaN/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/AnshikaN/LeetCode/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/AnshikaN/LeetCode/tree/master/0917-boats-to-save-people) |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0624-maximum-distance-in-arrays](https://github.com/AnshikaN/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/AnshikaN/LeetCode/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/AnshikaN/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/AnshikaN/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
