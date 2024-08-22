@@ -224,4 +224,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AnshikaN/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/AnshikaN/LeetCode/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
