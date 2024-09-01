@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-crawler-log-folder](https://github.com/AnshikaN/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/AnshikaN/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AnshikaN/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/AnshikaN/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AnshikaN/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/AnshikaN/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2502-sort-the-people](https://github.com/AnshikaN/LeetCode/tree/master/2502-sort-the-people) |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-spiral-matrix-iii](https://github.com/AnshikaN/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/AnshikaN/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AnshikaN/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/AnshikaN/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/AnshikaN/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2846-robot-collisions](https://github.com/AnshikaN/LeetCode/tree/master/2846-robot-collisions) |
 ## Hash Table
@@ -136,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0999-regions-cut-by-slashes](https://github.com/AnshikaN/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/AnshikaN/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/AnshikaN/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/AnshikaN/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Counting
 |  |
 | ------- |
