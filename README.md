@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2163-kth-distinct-string-in-an-array](https://github.com/AnshikaN/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/AnshikaN/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2502-sort-the-people](https://github.com/AnshikaN/LeetCode/tree/master/2502-sort-the-people) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AnshikaN/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2846-robot-collisions](https://github.com/AnshikaN/LeetCode/tree/master/2846-robot-collisions) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/AnshikaN/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Stack
@@ -237,4 +238,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/AnshikaN/LeetCode/tree/master/0476-number-complement) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AnshikaN/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AnshikaN/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
