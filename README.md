@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0322-coin-change](https://github.com/AnshikaN/LeetCode/tree/master/0322-coin-change) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/AnshikaN/LeetCode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0539-minimum-time-difference](https://github.com/AnshikaN/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/AnshikaN/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0870-magic-squares-in-grid](https://github.com/AnshikaN/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/AnshikaN/LeetCode/tree/master/0890-lemonade-change) |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0539-minimum-time-difference](https://github.com/AnshikaN/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0917-boats-to-save-people](https://github.com/AnshikaN/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/AnshikaN/LeetCode/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/AnshikaN/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
@@ -103,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/AnshikaN/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/AnshikaN/LeetCode/tree/master/0072-edit-distance) |
 | [0273-integer-to-english-words](https://github.com/AnshikaN/LeetCode/tree/master/0273-integer-to-english-words) |
+| [0539-minimum-time-difference](https://github.com/AnshikaN/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/AnshikaN/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0583-delete-operation-for-two-strings](https://github.com/AnshikaN/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [1250-longest-common-subsequence](https://github.com/AnshikaN/LeetCode/tree/master/1250-longest-common-subsequence) |
@@ -116,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0264-ugly-number-ii](https://github.com/AnshikaN/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/AnshikaN/LeetCode/tree/master/0273-integer-to-english-words) |
+| [0539-minimum-time-difference](https://github.com/AnshikaN/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/AnshikaN/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0650-2-keys-keyboard](https://github.com/AnshikaN/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/AnshikaN/LeetCode/tree/master/0870-magic-squares-in-grid) |
