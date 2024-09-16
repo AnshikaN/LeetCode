@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/AnshikaN/LeetCode/tree/master/0069-sqrtx) |
 | [0264-ugly-number-ii](https://github.com/AnshikaN/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/AnshikaN/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/AnshikaN/LeetCode/tree/master/0539-minimum-time-difference) |
@@ -197,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/AnshikaN/LeetCode/tree/master/0069-sqrtx) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/AnshikaN/LeetCode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AnshikaN/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Prefix Sum
