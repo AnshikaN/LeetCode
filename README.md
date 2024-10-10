@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-spiral-matrix-iii](https://github.com/AnshikaN/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/AnshikaN/LeetCode/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/AnshikaN/LeetCode/tree/master/0999-regions-cut-by-slashes) |
+| [1002-maximum-width-ramp](https://github.com/AnshikaN/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1333-sort-the-jumbled-numbers](https://github.com/AnshikaN/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/AnshikaN/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AnshikaN/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/AnshikaN/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [1002-maximum-width-ramp](https://github.com/AnshikaN/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AnshikaN/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/AnshikaN/LeetCode/tree/master/1720-crawler-log-folder) |
 | [2846-robot-collisions](https://github.com/AnshikaN/LeetCode/tree/master/2846-robot-collisions) |
@@ -260,4 +262,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/AnshikaN/LeetCode/tree/master/0386-lexicographical-numbers) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/AnshikaN/LeetCode/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
