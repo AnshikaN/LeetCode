@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2132-convert-1d-array-into-2d-array](https://github.com/AnshikaN/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AnshikaN/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/AnshikaN/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AnshikaN/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/AnshikaN/LeetCode/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AnshikaN/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2846-robot-collisions](https://github.com/AnshikaN/LeetCode/tree/master/2846-robot-collisions) |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AnshikaN/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/AnshikaN/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/AnshikaN/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AnshikaN/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/AnshikaN/LeetCode/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/AnshikaN/LeetCode/tree/master/2846-robot-collisions) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AnshikaN/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -90,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0917-boats-to-save-people](https://github.com/AnshikaN/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/AnshikaN/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/AnshikaN/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AnshikaN/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AnshikaN/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -100,12 +103,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AnshikaN/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/AnshikaN/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/AnshikaN/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AnshikaN/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Two Pointers
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AnshikaN/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0917-boats-to-save-people](https://github.com/AnshikaN/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AnshikaN/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AnshikaN/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## String
 |  |
 | ------- |
@@ -216,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/AnshikaN/LeetCode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AnshikaN/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Ordered Set
 |  |
 | ------- |
