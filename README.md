@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/AnshikaN/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/AnshikaN/LeetCode/tree/master/0070-climbing-stairs) |
 | [0264-ugly-number-ii](https://github.com/AnshikaN/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/AnshikaN/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/AnshikaN/LeetCode/tree/master/0539-minimum-time-difference) |
@@ -168,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AnshikaN/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/AnshikaN/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/AnshikaN/LeetCode/tree/master/0072-edit-distance) |
 | [0264-ugly-number-ii](https://github.com/AnshikaN/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0322-coin-change](https://github.com/AnshikaN/LeetCode/tree/master/0322-coin-change) |
@@ -275,4 +277,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/AnshikaN/LeetCode/tree/master/1002-maximum-width-ramp) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AnshikaN/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
